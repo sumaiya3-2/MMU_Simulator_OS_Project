@@ -5,11 +5,11 @@ This project is an Operating System course project that simulates the basic work
 It demonstrates how logical memory addresses are mapped to physical memory using page replacement techniques.
 
 ## Features
-- Translation from logical address to physical address
+- Translation from logical address to physical address.
 - Simulation of sequence of references using three page replacement algorithm (FIFO, LRU, Optimal).
 - Calculate EMAT.
-- Page fault and page hit detection
-- Frame table, TLB and pages visualization through console output
+- Page fault and page hit detection.
+- Frame table, TLB and pages visualization through console output.
 
 ## Technologies Used
 - Programming Language: C
